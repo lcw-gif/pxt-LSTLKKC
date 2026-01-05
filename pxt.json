@@ -1,0 +1,15 @@
+{
+    "name": "pxt-ina226-tw",
+    "version": "1.0.0",
+    "description": "INA226 電流電壓感測器",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "main.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksproj"
+}
